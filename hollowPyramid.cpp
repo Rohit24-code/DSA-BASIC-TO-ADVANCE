@@ -14,9 +14,9 @@ int main() {
 //       cout << " ";
 //     }
 
-//     for (int k = 0; k < (((row + 1) * 2) - 1); k++) {
+//     for (int k = 0; k < (row + 1); k++) {
 //       if (row != rowcount - 1) {
-//         if (k == 0 || k == (((row + 1) * 2) - 2)) {
+//         if (k == 0 || k == (row + 1) - 2)) {
 //           cout << "*";
 //         } else {
 //           cout << " ";
